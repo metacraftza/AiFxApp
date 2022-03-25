@@ -8,4 +8,5 @@
 
 ![AiFx's GitHub stats](https://github-readme-stats.vercel.app/api?username=AiFxApp&show_icons=true&theme=tokyonight)
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AiFxApp&repo=github-readme-stats)](https://github.com/AiFxApp/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AiFxApp&layout=compact)](https://github.com/AiFxApp/github-readme-stats)-->
+As you can see in the above stats - I am new to the Github Community as a contributor - But this will change! 
