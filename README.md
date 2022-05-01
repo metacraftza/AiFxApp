@@ -6,7 +6,7 @@
 <br><br>
 <hr>
 
-SITES I HAVE DEVELOPED, WORK ON, ASSIST WITH.. Had a hand in.
+SITES I HAVE DEVELOPED, WORK ON, ASSIST WITH.. Had a hand in. <br>
 <a href="https://khulatechknow.co.za"> KHULATECHKNOW </a> - Launched April 2022 <br>
 <a href="https://allbang.co.za"> AllBang & Strumit </a> - Launching May 2022 <br>
 <a href="https://cannaway.co.za"> Cannaway (Social Platform for Canna & Hemp Enthusiasts  </a> - Launched 2022 - A work In Progress Project <br>
