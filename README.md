@@ -3,7 +3,7 @@
 🌱 I’m currently using Laravel, Visual Studio, Docker, Linux, Git, Bootstrap, Tailwinds HTML, CSS, PHP, MySQL...etc etc <br>
 💞️ I’m enjoy the challenges and growth as each day comes<br>
 📫 Reach Out: <a href="https://discord.gg/Pqd68PMYK3"> AIFX ON DISCORD </a> <br> 
-<br><br>
+<br>
 <hr>
 
 SITES I HAVE DEVELOPED, WORK ON, ASSIST WITH.. Had a hand in. <br>
