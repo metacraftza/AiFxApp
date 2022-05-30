@@ -7,9 +7,9 @@
 <hr>
 
 SITES I HAVE DEVELOPED, WORK ON, ASSIST WITH.. Had a hand in. <br>
-<a href="https://khulatechknow.co.za"> KhulaTechKnow </a> - Launched April 2022 <br>
-<a href="https://allbang.co.za"> AllBang & Strumit </a> - Launching May 2022 <br>
-<a href="https://cannaway.co.za"> Cannaway (Social Platform for Canna & Hemp Enthusiasts  </a> - Launched 2022 - A work In Progress Project <br>
+<a href="https://khulatechknow.co.za"> KhulaTechKnow </a> - Launched April 2022 - I am the sole DevOps for this site  <br>
+<a href="https://allbang.co.za"> AllBang & Strumit </a> - Launching June 2022 - I am the sole DevOps for this site <br>
+<a href="https://siyamed.co.za"> Siyamed </a> - Launched 2021 - I am the sole DevOps for this site <br>
 <hr>
 
 🤖 I will share here the various discoveries, platforms, tools and dependencies that I find is top notch in hopes to save you time on the hunt and give you more time in the `code`
