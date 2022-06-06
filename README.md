@@ -45,6 +45,10 @@ SITES I HAVE DEVELOPED, WORK ON, ASSIST WITH.. Had a hand in. <br>
 - [Tabletop Simulator Lua](https://marketplace.visualstudio.com/items?itemName=rolandostar.tabletopsimulator-lua)
 - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 
+3. Markdown Editor to add into your Laravel Project:
+### TOAST UI Editor
+<p>The Editor allows you to edit your Markdown documents using text or WYSIWYG and comes with Syntax Highlighting, Scroll-Sync, Live Preview, and Chart features.</p>
+[Toast UI Editor](https://ui.toast.com/tui-editor)
 <hr>
 
 ![AiFx's GitHub stats](https://github-readme-stats.vercel.app/api?username=AiFxApp&show_icons=true&theme=tokyonight)
