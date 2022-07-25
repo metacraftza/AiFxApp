@@ -15,12 +15,12 @@ SITES I HAVE DEVELOPED, WORK ON, ASSIST WITH.. Had a hand in. <br>
 <a href="https://travelx.co.za"> TravelX </a> - Launching August 2022 - I am the sole DevOps for this site <br>
 <hr>
 
-SaaS: 
-1> Laravel: Project Manager
-2> Laravel: CRM
-3> Laravel: Conference & Ticket Booking System
-4> Laravel: Access Control and Health Tracker
-5> Laravel: Vehicle Rentals
+SaaS: <br>
+1> Laravel: Project Manager <br>
+2> Laravel: CRM (Customer Relationship Management) <br>
+3> Laravel: Conference & Ticket Booking System <br>
+4> Laravel: Access Control with Health Tracker <br>
+5> Laravel: Vehicle Rentals <br>
 
  
 🤖 I will share here the various discoveries, platforms, tools and dependencies that I find is top notch in hopes to save you time on the hunt and give you more time in the `code`
