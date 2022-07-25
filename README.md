@@ -12,7 +12,7 @@ SITES I HAVE DEVELOPED, WORK ON, ASSIST WITH.. Had a hand in. <br>
 <a href="https://khulatechknow.co.za"> KhulaTechKnow </a> - Launched April 2022 - I am the sole DevOps for this site  <br>
 <a href="https://kreationz.co.za"> House Of KreationZ </a> - Launched July 2022 - I am the sole DevOps for this site  <br>
 <a href="https://allbang.co.za"> AllBang & Strumit </a> - Launching August 2022 - I am the sole DevOps for this site <br>
-<a href="https://travelx> TravelX- Launching August 2022 - I am the sole DevOps for this site <br>
+<a href="https://travelx.co.za"> TravelX- Launching August 2022 - I am the sole DevOps for this site <br>
 
 SaaS: 
 1> Laravel: Project Manager
