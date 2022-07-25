@@ -7,9 +7,20 @@
 <hr>
 
 SITES I HAVE DEVELOPED, WORK ON, ASSIST WITH.. Had a hand in. <br>
-<a href="https://khulatechknow.co.za"> KhulaTechKnow </a> - Launched April 2022 - I am the sole DevOps for this site  <br>
-<a href="https://allbang.co.za"> AllBang & Strumit </a> - Launching June 2022 - I am the sole DevOps for this site <br>
+<a href="https://welovenature.co.za"> Love Nature </a> - Launched 2021 I am the sole DevOps for this site  <br>
 <a href="https://siyamed.co.za"> Siyamed </a> - Launched 2021 - I am the sole DevOps for this site <br>
+<a href="https://khulatechknow.co.za"> KhulaTechKnow </a> - Launched April 2022 - I am the sole DevOps for this site  <br>
+<a href="https://kreationz.co.za"> House Of KreationZ </a> - Launched July 2022 - I am the sole DevOps for this site  <br>
+<a href="https://allbang.co.za"> AllBang & Strumit </a> - Launching August 2022 - I am the sole DevOps for this site <br>
+<a href="https://travelx> TravelX- Launching August 2022 - I am the sole DevOps for this site <br>
+
+SaaS: 
+1> Laravel: Project Manager
+2> Laravel: CRM
+3> Laravel: Conference & Ticket Booking System
+4> Laravel: Access Control and Health Tracker
+5> Laravel: Vehicle Rentals
+
 <hr>
 
 🤖 I will share here the various discoveries, platforms, tools and dependencies that I find is top notch in hopes to save you time on the hunt and give you more time in the `code`
