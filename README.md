@@ -7,12 +7,12 @@
 <hr>
 
 SITES I HAVE DEVELOPED, WORK ON, ASSIST WITH.. Had a hand in. <br>
-<a href="https://welovenature.co.za"> Love Nature </a> - Launched 2021 I am the sole DevOps for this site  <br>
-<a href="https://siyamed.co.za"> Siyamed </a> - Launched 2021 - I am the sole DevOps for this site <br>
-<a href="https://khulatechknow.co.za"> KhulaTechKnow </a> - Launched April 2022 - I am the sole DevOps for this site  <br>
-<a href="https://kreationz.co.za"> House Of KreationZ </a> - Launched July 2022 - I am the sole DevOps for this site  <br>
-<a href="https://allbang.co.za"> AllBang & Strumit </a> - Launching August 2022 - I am the sole DevOps for this site <br>
-<a href="https://travelx.co.za"> TravelX </a> - Launching August 2022 - I am the sole DevOps for this site <br>
+<a href="https://welovenature.co.za"> Love Nature </a> - Launched 2021 - Due to Covid company closed  <br>
+<a href="https://siyamed.co.za"> Siyamed </a> - Launched 2021 - I was the sole DevOps for this site <br>
+<a href="https://khulatechknow.co.za"> KhulaTechKnow </a> - Launched April 2022 - I was the sole DevOps for this site  <br>
+<a href="https://kreationz.co.za"> House Of KreationZ </a> - Launched July 2022 - I was the sole DevOps for this site  <br>
+<a href="https://allbang.co.za"> AllBang & Strumit </a> - Launching 2023 - I am the sole DevOps for this site <br>
+<a href="https://travelx.co.za"> TravelX </a> - Launching August 2022 - Project supended <br>
 <hr>
 
 SaaS: <br>
