@@ -10,18 +10,19 @@
 <hr>
 <hr>
 ## <a href="https://welovenature.co.za"> Love Nature </a> - Launched 2021 | sole DevOps - Due to Covid company closed  <br>
-![lovenature1](https://user-images.githubusercontent.com/89227642/220150922-538b4c98-6edd-4737-9384-50627264cd17.png)
-![lovenature2](https://user-images.githubusercontent.com/89227642/220150945-055f5456-fc29-4477-aba9-226424b291ba.png)
-![lovenature3](https://user-images.githubusercontent.com/89227642/220150960-0725a33c-9ec1-44db-b953-3bce3b2c2516.png)
+![lovenature1](https://user-images.githubusercontent.com/89227642/220192521-f34810b5-9854-4fc9-99dc-f22d59351c47.png)
+![lovenature2](https://user-images.githubusercontent.com/89227642/220192535-7db3e226-15ee-4a0b-aca9-0bb2430bb085.png)
+![lovenature3](https://user-images.githubusercontent.com/89227642/220192543-8de77a66-213b-4bc5-b77f-84f424381dfc.png)
+
 <hr>
 <hr>
 ##<a href="https://siyamed.co.za"> Siyamed </a> - Launched 2021 - I was the sole DevOps for this site <br>
 <hr>
 # First Verion
-![siyamed1](https://user-images.githubusercontent.com/89227642/220151381-d85a8214-92b8-4679-bda7-bf259d177c40.png)
-![siyamed2](https://user-images.githubusercontent.com/89227642/220151443-41ed2b2c-ea0b-4a58-a1a5-0f3bbcfb8b8b.png)
-![siyamed3](https://user-images.githubusercontent.com/89227642/220151461-e4ceee42-f147-4b58-adbd-91c59151f968.png)
-![siyamed4](https://user-images.githubusercontent.com/89227642/220151504-25fd06a5-d9ba-4d5d-9f4b-f3dad366c636.png)
+![siyamed1](https://user-images.githubusercontent.com/89227642/220192552-1435b061-9863-483c-9b06-781f3bf88738.png)
+![siyamed2](https://user-images.githubusercontent.com/89227642/220192557-8357597e-fb8a-46bb-95cd-cc72ce6cecc2.png)
+![siyamed3](https://user-images.githubusercontent.com/89227642/220192568-5cab9fa9-35c0-4748-9ed5-bac4b3007537.png)
+![siyamed4](https://user-images.githubusercontent.com/89227642/220192622-e559b036-e70f-48a1-bcb1-94c176c51a79.png)
 
 # --> was part of dev ops team in `HealthWebZA` Web App (Laravel) & `HealthPassZA` (Flutter) Andriod / iPhone <br>
 (Covid Monitoring with Feedback on Testing and Access control for a Film Industry company (South Africa) <br>
