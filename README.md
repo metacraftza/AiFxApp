@@ -6,20 +6,21 @@
 <br>
 <hr>
 
-SITES I HAVE DEVELOPED, WORK ON, ASSIST WITH.. Had a hand in. <br>
-<a href="https://welovenature.co.za"> Love Nature </a> - Launched 2021 - Due to Covid company closed  <br>
+### SITES I HAVE DEVELOPED, WORK ON, ASSIST WITH.. Had a hand in. <br>
+## <a href="https://welovenature.co.za"> Love Nature </a> - Launched 2021 | sole DevOps - Due to Covid company closed  <br>
 ![lovenature1](https://user-images.githubusercontent.com/89227642/220150922-538b4c98-6edd-4737-9384-50627264cd17.png)
 ![lovenature2](https://user-images.githubusercontent.com/89227642/220150945-055f5456-fc29-4477-aba9-226424b291ba.png)
 ![lovenature3](https://user-images.githubusercontent.com/89227642/220150960-0725a33c-9ec1-44db-b953-3bce3b2c2516.png)
 
-<a href="https://siyamed.co.za"> Siyamed </a> - Launched 2021 - I was the sole DevOps for this site <br>
-## First Verion
+##<a href="https://siyamed.co.za"> Siyamed </a> - Launched 2021 - I was the sole DevOps for this site <br>
+# First Verion
 ![siyamed1](https://user-images.githubusercontent.com/89227642/220151381-d85a8214-92b8-4679-bda7-bf259d177c40.png)
 ![siyamed2](https://user-images.githubusercontent.com/89227642/220151443-41ed2b2c-ea0b-4a58-a1a5-0f3bbcfb8b8b.png)
 ![siyamed3](https://user-images.githubusercontent.com/89227642/220151461-e4ceee42-f147-4b58-adbd-91c59151f968.png)
 ![siyamed4](https://user-images.githubusercontent.com/89227642/220151504-25fd06a5-d9ba-4d5d-9f4b-f3dad366c636.png)
 
---> was part of dev ops team in `HealthPassZA` Web App (Laravel) & (Flutter) Andriod / iPhone (Covid Monitoring with Feedback on Testing and Access control for a Film Industry company (South Africa) 
+--> was part of dev ops team in `HealthPassZA` Web App (Laravel) & (Flutter) Andriod / iPhone <br>
+(Covid Monitoring with Feedback on Testing and Access control for a Film Industry company (South Africa) 
 
 <a href="https://khulatechknow.co.za"> KhulaTechKnow </a> - Launched April 2022 - I was the sole DevOps for this site  <br>
 ![KTK Home Page - AiFx WebDev 2022](https://user-images.githubusercontent.com/89227642/220151160-da3ded85-765d-4c92-be77-4aac411d80aa.png)
@@ -40,6 +41,10 @@ SITES I HAVE DEVELOPED, WORK ON, ASSIST WITH.. Had a hand in. <br>
 ![travelx-pic1-aifx2022](https://user-images.githubusercontent.com/89227642/220150056-32b44db6-74a7-4d48-b87b-18ffc13c0483.png)
 ![travelx-pic2-aifx2022](https://user-images.githubusercontent.com/89227642/220152466-ba96498f-2fa7-42ed-b321-bb60310405d7.png)
 ![travelx-pic3-aifx2022](https://user-images.githubusercontent.com/89227642/220152481-e3dd8bf0-1c5a-4927-b901-69f18c2949df.png)
+
+<a href="http://truth-inc.co.za"> Truth Inc - Work In Progress
+![truth coming soon](https://user-images.githubusercontent.com/89227642/220190803-6ff07c35-b67a-407d-9201-369e1455aa36.jpg)
+ 
 
 
 
