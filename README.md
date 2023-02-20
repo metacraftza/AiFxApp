@@ -2,8 +2,9 @@
 👀 I’m interested in how to build web/mobile apps and SaaS platforms<br>
 🌱 I’m currently using Laravel, Visual Studio, Docker, Linux, Git, Bootstrap, Tailwinds HTML, CSS, PHP, MySQL...etc etc <br>
 💞️ I’m enjoy the challenges and growth as each day comes<br>
-📫 Reach Out: <a href="https://discord.gg/Pqd68PMYK3"> AIFX ON DISCORD </a> <br> 
-<br>
+ <br>
+ 
+Follow on Facebook: <a href="https://facebook.com/AiFx.Intel"> AIFX on Facebook </a>
 <hr>
 
 ### SITES I HAVE DEVELOPED, WORK ON, ASSIST WITH.. Had a hand in. <br>
