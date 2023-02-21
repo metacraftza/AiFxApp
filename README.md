@@ -13,7 +13,7 @@ Follow on Facebook: <a href="https://facebook.com/AiFx.Intel"> AIFX on Facebook 
 ![lovenature2](https://user-images.githubusercontent.com/89227642/220192535-7db3e226-15ee-4a0b-aca9-0bb2430bb085.png) <br>
 ![lovenature3](https://user-images.githubusercontent.com/89227642/220192543-8de77a66-213b-4bc5-b77f-84f424381dfc.png) <br>
 ##<a href="https://siyamed.co.za"> Siyamed </a> - Launched 2021 - I was the sole DevOps for this site <br>
-# First Verion
+# First Version
 ![siyamed1](https://user-images.githubusercontent.com/89227642/220192552-1435b061-9863-483c-9b06-781f3bf88738.png)
 ![siyamed2](https://user-images.githubusercontent.com/89227642/220192557-8357597e-fb8a-46bb-95cd-cc72ce6cecc2.png)
 ![siyamed3](https://user-images.githubusercontent.com/89227642/220192568-5cab9fa9-35c0-4748-9ed5-bac4b3007537.png)
