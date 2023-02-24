@@ -11,52 +11,53 @@ Follow on Facebook: <a href="https://facebook.com/AiFx.Intel"> AIFX on Facebook 
 ### SITES I HAVE DEVELOPED, WORK ON, ASSIST WITH.. Had a hand in. <br>
 <a href="https://welovenature.co.za"> Love Nature </a> - Launched 2021 | sole DevOps - Due to Covid company closed  <br>
 
-<img src="https://user-images.githubusercontent.com/89227642/220192521-f34810b5-9854-4fc9-99dc-f22d59351c47.png" width="600" height="300"> <br>
-
-<img src="https://user-images.githubusercontent.com/89227642/220192535-7db3e226-15ee-4a0b-aca9-0bb2430bb085.png" width="600" height="300"> <br>
-
-![lovenature3](https://user-images.githubusercontent.com/89227642/220192543-8de77a66-213b-4bc5-b77f-84f424381dfc.png) <br>
+<img src="https://user-images.githubusercontent.com/89227642/220192521-f34810b5-9854-4fc9-99dc-f22d59351c47.png" width="600" height="300">
+<img src="https://user-images.githubusercontent.com/89227642/220192535-7db3e226-15ee-4a0b-aca9-0bb2430bb085.png" width="600" height="300">
+<img src="https://user-images.githubusercontent.com/89227642/220192543-8de77a66-213b-4bc5-b77f-84f424381dfc.png" width="600" height="300">
 
 ##<a href="https://siyamed.co.za"> Siyamed </a> - Launched 2021 - I was the sole DevOps for this site <br>
+
 # First Version
-![siyamed1](https://user-images.githubusercontent.com/89227642/220192552-1435b061-9863-483c-9b06-781f3bf88738.png)
-![siyamed2](https://user-images.githubusercontent.com/89227642/220192557-8357597e-fb8a-46bb-95cd-cc72ce6cecc2.png)
-![siyamed3](https://user-images.githubusercontent.com/89227642/220192568-5cab9fa9-35c0-4748-9ed5-bac4b3007537.png)
-![siyamed4](https://user-images.githubusercontent.com/89227642/220192622-e559b036-e70f-48a1-bcb1-94c176c51a79.png)
+<img src="https://user-images.githubusercontent.com/89227642/220192552-1435b061-9863-483c-9b06-781f3bf88738.png" width="600" height="300">
+<img src="https://user-images.githubusercontent.com/89227642/220192557-8357597e-fb8a-46bb-95cd-cc72ce6cecc2.png" width="600" height="300">
+<img src="https://user-images.githubusercontent.com/89227642/220192568-5cab9fa9-35c0-4748-9ed5-bac4b3007537.png" width="600" height="300">
+<img src="https://user-images.githubusercontent.com/89227642/220192622-e559b036-e70f-48a1-bcb1-94c176c51a79.png" width="600" height="300">
 
 was part of dev ops team in `HealthWebZA` Web App (Laravel) & `HealthPassZA` (Flutter) Andriod / iPhone <br>
+
 (Covid Monitoring with Feedback on Testing and Access control for a Film Industry company (South Africa) <br>
 
 <a href="https://khulatechknow.co.za"> KhulaTechKnow </a> - Launched April 2022 - I was the sole DevOps for this site  <br>
-![KTK Home Page - AiFx WebDev 2022](https://user-images.githubusercontent.com/89227642/220151160-da3ded85-765d-4c92-be77-4aac411d80aa.png)
-![multi-device-aifx2](https://user-images.githubusercontent.com/89227642/220149216-d0e6ddb7-d4d2-4c51-878a-6379c4be2153.png)
-![KTK Web Build - MultiMedia -  - AiFx Dev 2022](https://user-images.githubusercontent.com/89227642/220151195-93054067-4ae5-4822-974e-7ee8dd2ddf29.png)
+
+<img src="https://user-images.githubusercontent.com/89227642/220151160-da3ded85-765d-4c92-be77-4aac411d80aa.png" width="600" height="300">
+<img src="https://user-images.githubusercontent.com/89227642/220149216-d0e6ddb7-d4d2-4c51-878a-6379c4be2153.png" width="600" height="300">
+<img src="https://user-images.githubusercontent.com/89227642/220151195-93054067-4ae5-4822-974e-7ee8dd2ddf29.png" width="600" height="300">
 
 
 <a href="https://kreationz.co.za"> House Of KreationZ </a> - Launched July 2022 | sole DevOps for this site <br>
-![kreationz-services-pic1-aifx2022](https://user-images.githubusercontent.com/89227642/220150105-4765581c-b083-41d7-9d7d-3cc9afdbcd37.png)
-![kreationz-home-pic2-aifx2022](https://user-images.githubusercontent.com/89227642/220150155-347cb8db-9090-4cea-9bda-8cbfb0f7baf3.png)
-![kreationz-services-pic1-aifx2022](https://user-images.githubusercontent.com/89227642/220150182-7c9cf777-2e67-4632-a107-69c8ca3e136f.png)
-![kreationz-showcase-pic1-aifx2022](https://user-images.githubusercontent.com/89227642/220150213-82ee156b-7b51-45b2-809a-27720de6952b.png)
+<img src="https://user-images.githubusercontent.com/89227642/220150105-4765581c-b083-41d7-9d7d-3cc9afdbcd37.png" width="600" height="300">
+<img src="https://user-images.githubusercontent.com/89227642/220150155-347cb8db-9090-4cea-9bda-8cbfb0f7baf3.png" width="600" height="300">
+<img src="https://user-images.githubusercontent.com/89227642/220150182-7c9cf777-2e67-4632-a107-69c8ca3e136f.png" width="600" height="300">
+<img src="https://user-images.githubusercontent.com/89227642/220150213-82ee156b-7b51-45b2-809a-27720de6952b.png" width="600" height="300">
 
 ## <a href="https://allbang.co.za"> AllBang & Strumit </a> - Launching 2023 | sole DevOps for this site <br>
-![ABS Home page on laptop 500px](https://user-images.githubusercontent.com/89227642/220151017-f71b1d09-de88-4de7-90bf-238b68cda449.png)
+![ABS Home page on laptop 500px](https://user-images.githubusercontent.com/89227642/220151017-f71b1d09-de88-4de7-90bf-238b68cda449.png" width="600" height="300">
 
 <a href="https://travelx.co.za"> TravelX </a> - Launching August 2022 - Project supended <br>
-![travelx-pic1-aifx2022](https://user-images.githubusercontent.com/89227642/220150056-32b44db6-74a7-4d48-b87b-18ffc13c0483.png)
-![travelx-pic2-aifx2022](https://user-images.githubusercontent.com/89227642/220152466-ba96498f-2fa7-42ed-b321-bb60310405d7.png)
-![travelx-pic3-aifx2022](https://user-images.githubusercontent.com/89227642/220152481-e3dd8bf0-1c5a-4927-b901-69f18c2949df.png)
+<img src="https://user-images.githubusercontent.com/89227642/220150056-32b44db6-74a7-4d48-b87b-18ffc13c0483.png" width="600" height="300">
+<img src="https://user-images.githubusercontent.com/89227642/220152466-ba96498f-2fa7-42ed-b321-bb60310405d7.png" width="600" height="300">
+<img src="https://user-images.githubusercontent.com/89227642/220152481-e3dd8bf0-1c5a-4927-b901-69f18c2949df.png" width="600" height="300">
 
 <a href="http://truth-inc.co.za"> Truth Inc - Work In Progress
-![truth coming soon](https://user-images.githubusercontent.com/89227642/220190803-6ff07c35-b67a-407d-9201-369e1455aa36.jpg)
+<img src="https://user-images.githubusercontent.com/89227642/220190803-6ff07c35-b67a-407d-9201-369e1455aa36.jpg" width="600" height="300">
 
 ## <a href="http://ops.truth-inc.co.za"> Truth Inc | Project Manager - SaaS
  # Installed server side and manage application
-![op truth](https://user-images.githubusercontent.com/89227642/220192304-fd3355f0-bdae-4bb9-ad36-0670f0eb3615.png)
+<img src="https://user-images.githubusercontent.com/89227642/220192304-fd3355f0-bdae-4bb9-ad36-0670f0eb3615.png" width="600" height="300">
 
 <a href="https://github.com/AiFxApp/tall-stack-v1.0.0-darkmode"> Here i a TALL tack Repo for you: </a>
  
-https://user-images.githubusercontent.com/89227642/167925105-a8c7d11c-89b6-48fc-b660-07b5e967de7f.png
+<img src="://user-images.githubusercontent.com/89227642/167925105-a8c7d11c-89b6-48fc-b660-07b5e967de7f.png" width="600" height="300">
  
 ### SaaS: <br>
 1> Laravel: Project Manager <br>
