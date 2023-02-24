@@ -30,7 +30,7 @@ was part of dev ops team in `HealthWebZA` Web App (Laravel) & `HealthPassZA` (Fl
 <a href="https://khulatechknow.co.za"> KhulaTechKnow </a> - Launched April 2022 - I was the sole DevOps for this site  <br>
 
 <img src="https://user-images.githubusercontent.com/89227642/220151160-da3ded85-765d-4c92-be77-4aac411d80aa.png" width="600" height="300">
-<img src="https://user-images.githubusercontent.com/89227642/220149216-d0e6ddb7-d4d2-4c51-878a-6379c4be2153.png" width="600" height="300">
+<img src="https://user-images.githubusercontent.com/89227642/220149216-d0e6ddb7-d4d2-4c51-878a-6379c4be2153.png" width="600" height="400">
 <img src="https://user-images.githubusercontent.com/89227642/220151195-93054067-4ae5-4822-974e-7ee8dd2ddf29.png" width="600" height="300">
 
 
@@ -57,7 +57,7 @@ was part of dev ops team in `HealthWebZA` Web App (Laravel) & `HealthPassZA` (Fl
 
 <a href="https://github.com/AiFxApp/tall-stack-v1.0.0-darkmode"> Here i a TALL tack Repo for you: </a>
  
-<img src="://user-images.githubusercontent.com/89227642/167925105-a8c7d11c-89b6-48fc-b660-07b5e967de7f.png" width="600" height="300">
+<img src="https://user-images.githubusercontent.com/89227642/167925105-a8c7d11c-89b6-48fc-b660-07b5e967de7f.png" width="600" height="300">
  
 ### SaaS: <br>
 1> Laravel: Project Manager <br>
