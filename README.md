@@ -1,6 +1,6 @@
 👋 Hi, I’m Terence@AiFx - Web, App and SaaS Developer<br>
 👀 I’m interested in how to build web/mobile apps and SaaS platforms<br>
-🌱 I’m currently using Laravel, Visual Studio, Docker, Linux, Git, Bootstrap, Tailwinds HTML, CSS, PHP, MySQL...etc etc <br>
+🌱 I’m currently using Laravel, Visual Studio, Docker, Linux, Git, Tailwinds, HTML, CSS, PHP, MySQL...etc etc <br>
 💞️ I’m enjoy the challenges and growth as each day comes<br>
  <br>
  
