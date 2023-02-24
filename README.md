@@ -10,9 +10,13 @@ Follow on Facebook: <a href="https://facebook.com/AiFx.Intel"> AIFX on Facebook 
 
 ### SITES I HAVE DEVELOPED, WORK ON, ASSIST WITH.. Had a hand in. <br>
 <a href="https://welovenature.co.za"> Love Nature </a> - Launched 2021 | sole DevOps - Due to Covid company closed  <br>
-<img =![lovenature1](https://user-images.githubusercontent.com/89227642/220192521-f34810b5-9854-4fc9-99dc-f22d59351c47.png) width="600" height="300"> <br>
+
+<img src="https://user-images.githubusercontent.com/89227642/220192521-f34810b5-9854-4fc9-99dc-f22d59351c47.png" width="600" height="300"> <br>
+
 <img src="https://user-images.githubusercontent.com/89227642/220192535-7db3e226-15ee-4a0b-aca9-0bb2430bb085.png" width="600" height="300"> <br>
+
 ![lovenature3](https://user-images.githubusercontent.com/89227642/220192543-8de77a66-213b-4bc5-b77f-84f424381dfc.png) <br>
+
 ##<a href="https://siyamed.co.za"> Siyamed </a> - Launched 2021 - I was the sole DevOps for this site <br>
 # First Version
 ![siyamed1](https://user-images.githubusercontent.com/89227642/220192552-1435b061-9863-483c-9b06-781f3bf88738.png)
