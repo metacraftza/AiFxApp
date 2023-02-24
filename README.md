@@ -42,7 +42,7 @@ was part of dev ops team in `HealthWebZA` Web App (Laravel) & `HealthPassZA` (Fl
 
 ## <a href="https://allbang.co.za"> AllBang & Strumit </a> - Launching 2023 | sole DevOps for this site <br>
 
-<img src="https://user-images.githubusercontent.com/89227642/220151017-f71b1d09-de88-4de7-90bf-238b68cda449.png" width="600" height="300">
+<img src="https://user-images.githubusercontent.com/89227642/220151017-f71b1d09-de88-4de7-90bf-238b68cda449.png" width="600" height="500">
 
 <a href="https://travelx.co.za"> TravelX </a> - Launching August 2022 - Project supended <br>
 <img src="https://user-images.githubusercontent.com/89227642/220150056-32b44db6-74a7-4d48-b87b-18ffc13c0483.png" width="600" height="300">
