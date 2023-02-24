@@ -49,7 +49,8 @@ was part of dev ops team in `HealthWebZA` Web App (Laravel) & `HealthPassZA` (Fl
 <img src="https://user-images.githubusercontent.com/89227642/220152466-ba96498f-2fa7-42ed-b321-bb60310405d7.png" width="600" height="300">
 <img src="https://user-images.githubusercontent.com/89227642/220152481-e3dd8bf0-1c5a-4927-b901-69f18c2949df.png" width="600" height="300">
 
-<a href="http://truth-inc.co.za"> Truth Inc - Work In Progress
+<a href="http://truth-inc.co.za"> Truth Inc - Work In Progress </a><br>
+
 <img src="https://user-images.githubusercontent.com/89227642/220190803-6ff07c35-b67a-407d-9201-369e1455aa36.jpg" width="600" height="300">
 
 ## <a href="http://ops.truth-inc.co.za"> Truth Inc | Project Manager - SaaS
