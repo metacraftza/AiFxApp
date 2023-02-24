@@ -35,7 +35,7 @@ was part of dev ops team in `HealthWebZA` Web App (Laravel) & `HealthPassZA` (Fl
 
 
 <a href="https://kreationz.co.za"> House Of KreationZ </a> - Launched July 2022 | sole DevOps for this site <br>
-<img src="https://user-images.githubusercontent.com/89227642/220150105-4765581c-b083-41d7-9d7d-3cc9afdbcd37.png" width="600" height="300">
+
 <img src="https://user-images.githubusercontent.com/89227642/220150155-347cb8db-9090-4cea-9bda-8cbfb0f7baf3.png" width="600" height="300">
 <img src="https://user-images.githubusercontent.com/89227642/220150182-7c9cf777-2e67-4632-a107-69c8ca3e136f.png" width="600" height="300">
 <img src="https://user-images.githubusercontent.com/89227642/220150213-82ee156b-7b51-45b2-809a-27720de6952b.png" width="600" height="300">
