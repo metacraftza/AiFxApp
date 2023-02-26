@@ -1,3 +1,5 @@
+<p align="center"><img src="https://user-images.githubusercontent.com/89227642/221431420-70d72976-a7d4-46cc-8d7b-9628b68b3afa.png" width="400" alt="AiFx"></a></p>
+<br>
 👋 Hi, I’m Terence@AiFx - Web, App and SaaS Developer<br>
 👀 I’m interested in how to build web/mobile apps and SaaS platforms<br>
 💞️ I’m currently using Laravel, Visual Studio, Docker, Linux, Git, Tailwinds, HTML, CSS, PHP, MySQL...etc etc <br>
