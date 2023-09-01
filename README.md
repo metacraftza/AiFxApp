@@ -1,6 +1,6 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/89227642/221431420-70d72976-a7d4-46cc-8d7b-9628b68b3afa.png" width="400" alt="AiFx"></a></p>
 <br>
-👋 Hi, I’m Terence@AiFx - Web, App and SaaS Developer<br>
+👋 Hi, I’m Terence@AiMeta - Web, App and SaaS Developer<br>
 👀 I’m interested in how to build web/mobile apps and SaaS platforms<br>
 💞️ I’m currently using Laravel, Visual Studio, Docker, Linux, Git, Tailwinds, HTML, CSS, PHP, MySQL...etc etc <br> Yet well rehearsed with Wordpress, Wix, Shopify, Amazon etc.
 🌱 I’m enjoy the challenges and growth as each day comes<br>
@@ -15,13 +15,15 @@ Follow on Facebook: <a href="https://facebook.com/AiMeta.za"> AiMeta on Facebook
 ## <a href="https://allbang.co.za"> AllBang & Strumit </a> - Launching 2023 | sole DevOps for this site <br>
 <img src="https://user-images.githubusercontent.com/89227642/220151017-f71b1d09-de88-4de7-90bf-238b68cda449.png" width="600" height="500">
 <br>
-
-<a href="https://welovenature.co.za"> Love Nature </a> - Launched 2021 | sole DevOps - Due to Covid company closed  <br>
+<hr>
+<br>
+## <a href="https://welovenature.co.za"> Love Nature </a> - Launched 2021 | sole DevOps - Due to Covid company closed  <br>
 <img src="https://user-images.githubusercontent.com/89227642/220192521-f34810b5-9854-4fc9-99dc-f22d59351c47.png" width="600" height="300">
 <img src="https://user-images.githubusercontent.com/89227642/220192535-7db3e226-15ee-4a0b-aca9-0bb2430bb085.png" width="600" height="300">
 <img src="https://user-images.githubusercontent.com/89227642/220192543-8de77a66-213b-4bc5-b77f-84f424381dfc.png" width="600" height="300">
-
-##<a href="https://siyamed.co.za"> Siyamed </a> - Launched 2021 - I was the sole DevOps for this site <br>
+<br>
+<hr>
+## <a href="https://siyamed.co.za"> Siyamed </a> - Launched 2021 - I was the sole DevOps for this site <br>
 
 # First Version
 <img src="https://user-images.githubusercontent.com/89227642/220192552-1435b061-9863-483c-9b06-781f3bf88738.png" width="600" height="300">
@@ -31,33 +33,37 @@ Follow on Facebook: <a href="https://facebook.com/AiMeta.za"> AiMeta on Facebook
 
 was part of dev ops team in `HealthWebZA` Web App (Laravel) & `HealthPassZA` (Flutter) Andriod / iPhone <br>
 
-(Covid Monitoring with Feedback on Testing and Access control for a Film Industry company (South Africa) <br>
-
+(Covid Monitoring with Feedback on Testing and Access control for a Film Industry company (South Africa)
+<br>
+<hr>
 <a href="https://khulatechknow.co.za"> KhulaTechKnow </a> - Launched April 2022 - I was the sole DevOps for this site  <br>
 
 <img src="https://user-images.githubusercontent.com/89227642/220151160-da3ded85-765d-4c92-be77-4aac411d80aa.png" width="600" height="300">
 <img src="https://user-images.githubusercontent.com/89227642/220149216-d0e6ddb7-d4d2-4c51-878a-6379c4be2153.png" width="600" height="400">
 <img src="https://user-images.githubusercontent.com/89227642/220151195-93054067-4ae5-4822-974e-7ee8dd2ddf29.png" width="600" height="300">
-
-
+<br>
+<hr>
 <a href="https://kreationz.co.za"> House Of KreationZ </a> - Launched July 2022 | sole DevOps for this site <br>
 
 <img src="https://user-images.githubusercontent.com/89227642/220150155-347cb8db-9090-4cea-9bda-8cbfb0f7baf3.png" width="600" height="300">
 <img src="https://user-images.githubusercontent.com/89227642/220150182-7c9cf777-2e67-4632-a107-69c8ca3e136f.png" width="600" height="300">
 <img src="https://user-images.githubusercontent.com/89227642/220150213-82ee156b-7b51-45b2-809a-27720de6952b.png" width="600" height="300">
-
+<br>
+<hr>
 
 <a href="https://travelx.co.za"> TravelX </a> - Launching August 2022 - Project supended <br>
 <img src="https://user-images.githubusercontent.com/89227642/220150056-32b44db6-74a7-4d48-b87b-18ffc13c0483.png" width="600" height="300">
 <img src="https://user-images.githubusercontent.com/89227642/220152466-ba96498f-2fa7-42ed-b321-bb60310405d7.png" width="600" height="300">
 <img src="https://user-images.githubusercontent.com/89227642/220152481-e3dd8bf0-1c5a-4927-b901-69f18c2949df.png" width="600" height="300">
+<br>
+<hr>
 
---
 
 <a href="https://github.com/AiFxApp/tall-stack-v1.0.0-darkmode"> Here i a TALL tack Repo for you: </a>
  
 <img src="https://user-images.githubusercontent.com/89227642/167925105-a8c7d11c-89b6-48fc-b660-07b5e967de7f.png" width="600" height="300">
- 
+<br>
+<hr> 
 ### SaaS: <br>
 1> Laravel: Project Manager <br>
 2> Laravel: CRM (Customer Relationship Management) <br>
