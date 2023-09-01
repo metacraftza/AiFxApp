@@ -2,17 +2,21 @@
 <br>
 👋 Hi, I’m Terence@AiFx - Web, App and SaaS Developer<br>
 👀 I’m interested in how to build web/mobile apps and SaaS platforms<br>
-💞️ I’m currently using Laravel, Visual Studio, Docker, Linux, Git, Tailwinds, HTML, CSS, PHP, MySQL...etc etc <br>
+💞️ I’m currently using Laravel, Visual Studio, Docker, Linux, Git, Tailwinds, HTML, CSS, PHP, MySQL...etc etc <br> Yet well rehearsed with Wordpress, Wix, Shopify, Amazon etc.
 🌱 I’m enjoy the challenges and growth as each day comes<br>
  <br>
  
-Follow on Facebook: <a href="https://facebook.com/AiFx.Intel"> AIFX on Facebook </a>
+Follow on Facebook: <a href="https://facebook.com/AiMeta.za"> AiMeta on Facebook </a>
 <hr>
 
 
 ### SITES I HAVE DEVELOPED, WORK ON, ASSIST WITH.. Had a hand in. <br>
-<a href="https://welovenature.co.za"> Love Nature </a> - Launched 2021 | sole DevOps - Due to Covid company closed  <br>
 
+## <a href="https://allbang.co.za"> AllBang & Strumit </a> - Launching 2023 | sole DevOps for this site <br>
+<img src="https://user-images.githubusercontent.com/89227642/220151017-f71b1d09-de88-4de7-90bf-238b68cda449.png" width="600" height="500">
+<br>
+
+<a href="https://welovenature.co.za"> Love Nature </a> - Launched 2021 | sole DevOps - Due to Covid company closed  <br>
 <img src="https://user-images.githubusercontent.com/89227642/220192521-f34810b5-9854-4fc9-99dc-f22d59351c47.png" width="600" height="300">
 <img src="https://user-images.githubusercontent.com/89227642/220192535-7db3e226-15ee-4a0b-aca9-0bb2430bb085.png" width="600" height="300">
 <img src="https://user-images.githubusercontent.com/89227642/220192543-8de77a66-213b-4bc5-b77f-84f424381dfc.png" width="600" height="300">
@@ -42,9 +46,6 @@ was part of dev ops team in `HealthWebZA` Web App (Laravel) & `HealthPassZA` (Fl
 <img src="https://user-images.githubusercontent.com/89227642/220150182-7c9cf777-2e67-4632-a107-69c8ca3e136f.png" width="600" height="300">
 <img src="https://user-images.githubusercontent.com/89227642/220150213-82ee156b-7b51-45b2-809a-27720de6952b.png" width="600" height="300">
 
-## <a href="https://allbang.co.za"> AllBang & Strumit </a> - Launching 2023 | sole DevOps for this site <br>
-
-<img src="https://user-images.githubusercontent.com/89227642/220151017-f71b1d09-de88-4de7-90bf-238b68cda449.png" width="600" height="500">
 
 <a href="https://travelx.co.za"> TravelX </a> - Launching August 2022 - Project supended <br>
 <img src="https://user-images.githubusercontent.com/89227642/220150056-32b44db6-74a7-4d48-b87b-18ffc13c0483.png" width="600" height="300">
