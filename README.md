@@ -14,7 +14,7 @@ Follow on Facebook: <a href="https://facebook.com/AiMeta.za"> AiMeta on Facebook
 
 ### SITES I HAVE DEVELOPED, WORK ON, ASSIST WITH.. Had a hand in. <br>
 
-## <a href="https://allbang.co.za"> AllBang & Strumit </a> - Launching 2023 | sole DevOps for this site <br>
+## <a href="https://allbang.co.za"> AllBang & Strumit </a> - Launched September 2023 | sole DevOps for this site <br>
 <img src="https://user-images.githubusercontent.com/89227642/220151017-f71b1d09-de88-4de7-90bf-238b68cda449.png" width="600" height="500">
 <br>
 <hr>
