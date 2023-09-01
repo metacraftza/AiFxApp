@@ -5,6 +5,8 @@
 💞️ I’m currently using Laravel, Visual Studio, Docker, Linux, Git, Tailwinds, HTML, CSS, PHP, MySQL...etc etc <br> Yet well rehearsed with Wordpress, Wix, Shopify, Amazon etc.
 🌱 I’m enjoy the challenges and growth as each day comes<br>
  <br>
+
+ NB: We have recently changed company name from AiFx to AiMeta. 
  
 Follow on Facebook: <a href="https://facebook.com/AiMeta.za"> AiMeta on Facebook </a>
 <hr>
