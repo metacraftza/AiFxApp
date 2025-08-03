@@ -8,7 +8,7 @@
 
  NB: We have recently changed company name from AiFx to MetaCraft. 
  
-Follow on Facebook: <a href="https://facebook.com/AiMeta.za"> AiMeta on Facebook </a>
+Follow on Facebook: <a href="https://facebook.com/metacraftza"> MetaCraft on Facebook </a>
 <hr>
 
 
