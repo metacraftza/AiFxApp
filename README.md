@@ -6,7 +6,7 @@
 🌱 I’m enjoy the challenges and growth as each day comes<br>
  <br>
 
- NB: We have recently changed company name from AiFx to AiMeta. 
+ NB: We have recently changed company name from AiFx to MetaCraft. 
  
 Follow on Facebook: <a href="https://facebook.com/AiMeta.za"> AiMeta on Facebook </a>
 <hr>
